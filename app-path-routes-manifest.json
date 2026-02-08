@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/helio-guard/page": "/helio-guard",
+  "/login/page": "/login",
+  "/mission-control/page": "/mission-control",
+  "/nasa-modern/page": "/nasa-modern",
+  "/page": "/"
+}
